@@ -1,0 +1,9 @@
+{
+  "zendesk_product_field_id": "replace-with-product-field-id",
+  "products": {
+    "approved_products": [
+      {"name": "Product A", "value": "product_a"},
+      {"name": "Product B", "value": "product_b"}
+    ]
+  }
+}
