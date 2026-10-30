@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+*.csv
+*.json
+!config/products.json
+local_demo_results.*
+logs/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
